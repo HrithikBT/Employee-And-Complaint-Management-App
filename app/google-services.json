@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751735549374",
+    "firebase_url": "https://ioclapp-15e96.firebaseio.com",
+    "project_id": "ioclapp-15e96",
+    "storage_bucket": "ioclapp-15e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751735549374:android:40b09a07e3562a32",
+        "android_client_info": {
+          "package_name": "com.example.ioclapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751735549374-lescu74idlu6q94svk5k8fi646p8nl2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ioclapp",
+            "certificate_hash": "c0083e9a090b9093810933886058fe58b807f561"
+          }
+        },
+        {
+          "client_id": "751735549374-ui5hu2l1itc8r7a5a02ni0mov8kdjq62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWir_fIqbaqNKdJvoJ2gqM6V_cw7UnKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751735549374-ui5hu2l1itc8r7a5a02ni0mov8kdjq62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
